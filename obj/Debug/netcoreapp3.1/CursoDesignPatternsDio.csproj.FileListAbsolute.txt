@@ -1,0 +1,13 @@
+C:\Users\Administrador\source\repos\CursoDesignPatternsDio\bin\Debug\netcoreapp3.1\CursoDesignPatternsDio.exe
+C:\Users\Administrador\source\repos\CursoDesignPatternsDio\bin\Debug\netcoreapp3.1\CursoDesignPatternsDio.deps.json
+C:\Users\Administrador\source\repos\CursoDesignPatternsDio\bin\Debug\netcoreapp3.1\CursoDesignPatternsDio.runtimeconfig.json
+C:\Users\Administrador\source\repos\CursoDesignPatternsDio\bin\Debug\netcoreapp3.1\CursoDesignPatternsDio.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\CursoDesignPatternsDio\bin\Debug\netcoreapp3.1\CursoDesignPatternsDio.dll
+C:\Users\Administrador\source\repos\CursoDesignPatternsDio\bin\Debug\netcoreapp3.1\CursoDesignPatternsDio.pdb
+C:\Users\Administrador\source\repos\CursoDesignPatternsDio\obj\Debug\netcoreapp3.1\CursoDesignPatternsDio.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\CursoDesignPatternsDio\obj\Debug\netcoreapp3.1\CursoDesignPatternsDio.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\CursoDesignPatternsDio\obj\Debug\netcoreapp3.1\CursoDesignPatternsDio.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\CursoDesignPatternsDio\obj\Debug\netcoreapp3.1\CursoDesignPatternsDio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\CursoDesignPatternsDio\obj\Debug\netcoreapp3.1\CursoDesignPatternsDio.dll
+C:\Users\Administrador\source\repos\CursoDesignPatternsDio\obj\Debug\netcoreapp3.1\CursoDesignPatternsDio.pdb
+C:\Users\Administrador\source\repos\CursoDesignPatternsDio\obj\Debug\netcoreapp3.1\CursoDesignPatternsDio.genruntimeconfig.cache
